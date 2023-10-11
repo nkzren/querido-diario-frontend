@@ -145,6 +145,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ddevdan",
+      "name": "daniel carvalho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42525687?v=4",
+      "profile": "https://github.com/ddevdan",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MoisesMsa",
+      "name": "Moita",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16871448?v=4",
+      "profile": "https://github.com/MoisesMsa",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

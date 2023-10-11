@@ -27,6 +27,8 @@ Agradecimentos à todas estas pessoas maravilhosas ([emoji key](https://allcontr
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Winzen"><img src="https://avatars.githubusercontent.com/u/94500122?v=4?s=100" width="100px;" alt="Luiz Eduardo"/><br /><sub><b>Luiz Eduardo</b></sub></a><br /><a href="https://github.com/okfn-brasil/querido-diario-frontend/commits?author=Winzen" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ddevdan"><img src="https://avatars.githubusercontent.com/u/42525687?v=4?s=100" width="100px;" alt="daniel carvalho"/><br /><sub><b>daniel carvalho</b></sub></a><br /><a href="https://github.com/okfn-brasil/querido-diario-frontend/commits?author=ddevdan" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MoisesMsa"><img src="https://avatars.githubusercontent.com/u/16871448?v=4?s=100" width="100px;" alt="Moita"/><br /><sub><b>Moita</b></sub></a><br /><a href="https://github.com/okfn-brasil/querido-diario-frontend/commits?author=MoisesMsa" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
